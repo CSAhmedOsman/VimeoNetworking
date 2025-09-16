@@ -197,4 +197,7 @@ private extension String {
     static let acceptHeaderKey = "Accept"
     static let authorizationHeaderKey = "Authorization"
     static let userAgentKey = "User-Agent"
+    static let tusResumable = "Tus-Resumable"
+    static let uploadOffset = "Upload-Offset"
+    static let contentType = "Content-Type"
 }

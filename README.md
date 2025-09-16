@@ -1,4 +1,4 @@
-⚠️⚠️⚠️ This library has been deprecated and will be removed in the future. ⚠️⚠️⚠️
+⚠️⚠️⚠️ The original library has been deprecated and this is an unofficial update for it. ⚠️⚠️⚠️
 
 # VimeoNetworking [![](https://circleci.com/gh/vimeo/VimeoNetworking.png?style=shield&circle-token=0443de366b231f05e3b1b1b3bf64a434b9ec1cfe)](https://circleci.com/gh/vimeo/VimeoNetworking)
 
